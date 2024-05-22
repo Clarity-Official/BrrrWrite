@@ -1,0 +1,49 @@
+Contribution Guidelines
+
+Thank you for your interest in contributing to BrrrWrite! We are so glad that you are here. 
+
+
+We welcome contributions from the community to help improve and enhance this open-source cold email writing tool. By contributing, you'll be helping to streamline the process of crafting effective cold emails for marketing, sales, and other business functions that rely on cold outreach (plus, no more flooding in your inbox from non-relevant emails).
+
+Code of Conduct
+
+Before contributing, please read and understand our Code of Conduct. We expect all contributors to abide by these guidelines to ensure a welcoming and inclusive environment for everyone involved in the project.
+
+Getting Started
+
+1) Fork the Repository
+      Fork the BrrrWrite repository by clicking the "Fork" button on GitHub.
+
+2) Clone the Forked Repository
+     Clone your forked repository to your local machine using git clone https://github.com/YOUR_USERNAME/BrrrWrite.git
+
+3) Set up the Development Environment
+     BrrrWrite is built using PHP, Laravel, HTML, CSS, JavaScript, jQuery, PHP, and MySQL. Follow the instructions in the README to set up the development environment and       install the required dependencies.
+
+4) Create a New Branch
+    Create a new branch for your contributions using git checkout -b my-new-feature
+
+5) Make Your Changes
+      Implement your changes, additions, or bug fixes in the new branch.
+
+6) Test Your Changes
+      Ensure that your changes do not introduce any new bugs or break existing functionality by running the project's test suite.
+
+7) Commit Your Changes
+     Commit your changes with a descriptive commit message using git commit -m "Your commit message"
+8) Push Your Changes
+     Push your changes to your forked repository using git push origin my-new-feature
+
+9) Submit a Pull Request
+     Go to the BrrrWrite repository and create a new pull request by clicking the "New Pull Request" button. Provide a clear and concise description of your changes.
+
+10) Code Style and Guidelines
+     Please ensure that your contributions follow the code style and guidelines. This helps maintain consistency and readability throughout the codebase.
+
+License
+By contributing to BrrrWrite, you agree that your contributions will be licensed under the MIT License. Please add your name and the current year to the license file if you make significant contributions.
+
+Questions or Concerns
+If you have any questions or concerns regarding the contribution process or the project itself, please feel free to reach out to the project maintainers by creating an issue or contacting us via email.
+
+We appreciate your contributions and look forward to working with you to make BrrrWrite even better!

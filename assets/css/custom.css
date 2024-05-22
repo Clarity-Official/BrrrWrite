@@ -1,0 +1,97 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #ffffff;
+  color: #333333;
+  text-align: left;
+  border-radius: 5px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  border: 1px solid #dfdfdf;
+  box-shadow: 10px 10px 30px 0px rgba(232,232,232,1);
+  font-size: 15px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+#logo-link:hover {
+  opacity: 75%;  
+}
+
+@media only screen and (max-width: 600px) {
+   .bg-white.px-6.py-10.shadow.sm\:rounded-lg.sm\:px-6 {
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 7px;
+   }
+
+   #dropdown {
+    margin-left: -3px !important;
+   }
+
+  .overflow-hidden.bg-white.shadow-sm.ring-1.ring-gray-900\/5.sm\:rounded-xl {
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 7px;
+   }
+   
+   #home-form-div {
+    margin-top: -36px;
+   }
+   
+  .bg-white.shadow-sm.ring-1.ring-gray-900\/5.sm\:mt-2.sm\:rounded-xl.md\:h-\[60vh\] {
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 7px;
+  }
+  
+  .bg-white.shadow-sm.ring-1.ring-gray-900\/5.sm\:rounded-xl.md\:col-span-2 {
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-bottom: 30px;
+    border-radius: 7px;
+  }
+  
+  .delete-div {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  #card-element {
+    width: 100% !important;
+  }
+  
+  .h-full.md\:flex.md\:items-stretch.md\:divide-x.md\:divide-gray-200 {
+    margin-top: -20px;
+  }
+  
+  #delete-btn {
+    width: 100% !important;
+  }
+  
+  .mt-1.text-base.leading-6.whitespace-pre-wrap.text-gray-700.sm\:col-span-3.sm\:mt-0 {
+    margin-bottom: 15px !important;
+  }
+  #mobile-navbar {
+    justify-content: space-between !important;
+    padding-left: 6px !important;
+  }
+  #dropdownDefaultButton {
+    margin-top: 4px !important;
+  }
+  #projects {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
