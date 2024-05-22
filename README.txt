@@ -1,5 +1,7 @@
 BrrrWrite
 
+Take a peek at the demo here: brrrwrite.com
+
 BrrrWrite is an open-source cold email writing tool that utilizes GPT-3.5 language models to assist in generating personalized cold email content. The primary goal of this project is to provide people with a tool that can streamline the process of crafting effective cold emails for marketing, sales, and other business functions that rely on cold outreach.
 
 The core functionality of BrrrWrite revolves around leveraging the power of GPT models to generate contextually relevant email content. By taking inputs such as the target audience's persona, ideal customer profile (ICP), and details about the user's company and its products or services, BrrrWrite can produce tailored email drafts that resonate with the recipient and convey the intended message faster.
